@@ -1,1 +1,28 @@
-link baixar git: https://git-scm.com/
+windows / linux
+
+dir - lista pastas / ls(linux)
+cd pasta - entra na pasta do diretorio
+cd.. - retroceder no diretorio
+cls - limpar terminal
+tab - autocomplete
+
+mkdir - criar pasta
+echo hello > hello.txt
+del - deleta SOMENTE ARQUIVOS
+rmdir workspace /S /Q - deleta PASTAS
+
+mv - mover arquivos
+
+----------------------------
+
+git init - inicia o repositorio Git em uma pasta local.
+
+git status
+
+git add * - coloca atras do palco todos nos arquivos da pastas
+
+git commit -m "" - tira uma foto de como os arquivos estão naquele momento.
+
+git push main - enviar arquivos para servidor remoto
+
+git pull - puxa os arquivos.
